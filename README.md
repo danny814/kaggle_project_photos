@@ -1,3 +1,3 @@
-### Mandrill Project Photos
+### Kaggle Project Photos
 
-Photos of steps associated with the Naive Bayes Classification Project posted in Kaggle, for external referencing.
+Photos of steps associated with projects published to Kaggle that are externally linked to reduce kernel size.
